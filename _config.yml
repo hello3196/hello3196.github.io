@@ -1,6 +1,6 @@
 title: Stack Problems
 description: My Personal Stack Problems
-author: Agus Makmun
+author: Jaewoong Lee
 github: https://github.com/agusmakmun
 about: I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django.
 disqus_shortname: stackproblems
@@ -38,7 +38,7 @@ urls:
     - text: XML Feed
       url: /feed.xml
 
-url: "https://agusmakmun.github.io"
+url: "https://hello3196.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20
